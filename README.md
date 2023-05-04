@@ -1,0 +1,1 @@
+# Daily Log of all Tech goals, progress and milestones.
