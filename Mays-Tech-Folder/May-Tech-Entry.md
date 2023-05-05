@@ -4,9 +4,9 @@
 
 # Thursday 4-5-2023
 
-•	Completed Traversy JSDOM series </br>
+•	Completed Traversy JSDOM series <br>
 •	Brushed up my Knowledge of JS Fundamentals <br>
-•	Used my knowledge of JS Fundamentals to complete an Item Lister & Color Switcher web app. </br>
+•	Used my knowledge of JS Fundamentals to complete an Item Lister & Color Switcher web app. 
 
 <br>
 
@@ -21,7 +21,7 @@
 •	Learnt about some cool features we can use to transverse the DOM. Features like parentElement, children[], firstElementChild(), lastElementChild, previousElementSibling, nextElementSibling(, insertBefore() </br>
 •	Learnt about various event listeners such as keyup, keydown, keypress, click, submit, DOMContentLoaded, mouseover, mouseenter, mouseout, etc and the actions listen for </br>
 •	Learnt about Event Propagation <br>
-•	Learnt the difference between innerHTML, innerText and textContent <br>
+•	Learnt the difference between innerHTML, innerText and textContent. <br>
 
 
 
