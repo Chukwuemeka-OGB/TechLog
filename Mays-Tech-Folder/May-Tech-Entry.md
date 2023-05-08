@@ -26,7 +26,7 @@
 
 # Saturday 6-5-2023
 
-•	Pushed to Booklist Project to git and deployed to netlify @ emmys-booklister.netlify.app </br>
+•	Pushed Booklist Project to git and deployed to netlify @ emmys-booklister.netlify.app </br>
 •	Wrote an article titled "Advice for developers, 3key Strategies for Success". It's live on hashnode: https://valhunter.hashnode.dev/advice-for-new-developers-3-key-strategies-for-success </br>
 
 
